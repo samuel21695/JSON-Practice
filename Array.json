@@ -1,0 +1,10 @@
+[
+  "apple",
+  "orange",
+  "banana",
+  {
+    "name": "grape",
+    "color": "purple"
+  },
+  42
+]
